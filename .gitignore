@@ -26,3 +26,10 @@
 *.exe
 *.out
 *.app
+
+# pio
+.pioenvs
+.piolibdeps
+.vscode
+.travis.yml
+
